@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 # Heya!~ 👋
 I'm Noodle. I'm a bedroom producer, game developer and programmer. I'm currently taking BS Computer Science.
 <!--
