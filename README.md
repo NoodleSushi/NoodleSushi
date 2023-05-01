@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 <br>
 
 
-![NoodleSushi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoodleSushi&theme=dracula&show_icons=true&hide_border=true&layout=compact)![NoodleSushi's Stats](https://github-readme-stats.vercel.app/api?username=NoodleSushi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![NoodleSushi's Stats](https://github-readme-stats.vercel.app/api?username=NoodleSushi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
