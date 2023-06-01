@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 	<code><img height="50" src="https://github.com/NoodleSushi/NoodleSushi/assets/34954180/8cf547ac-f23a-4fb2-b8fa-dda94c179220" alt="Svelte" title="Svelte"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code
 </div>
 
 ## Stuff I Don't Use Anymore
