@@ -58,13 +58,6 @@ Here are some ideas to get you started:
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
 </div>
-
-## Stuff I Don't Use Anymore
-<div align="center">
-	<code><img height="50" src="https://github.com/NoodleSushi/NoodleSushi/assets/34954180/debba5ac-27b8-4dce-9b63-03a1d99acd9d" alt="Lua" title="Lua" /></code>
-	<code><img height="50" src="https://github.com/NoodleSushi/NoodleSushi/assets/34954180/eca6c633-45df-44dd-98a8-5460256b27b0" alt="GML" title="GML" /></code>
-	
-</div>
 <br>
 <br>
 
