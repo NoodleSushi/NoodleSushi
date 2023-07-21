@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ## Stuff I've Been Learning
 <div align="center">
+	<code><img height="50" src="https://github.com/NoodleSushi/NoodleSushi/assets/34954180/8cf547ac-f23a-4fb2-b8fa-dda94c179220" alt="Svelte" title="Svelte"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
@@ -52,7 +53,6 @@ Here are some ideas to get you started:
 <div align="center">
 	<code><img height="50" src="https://github.com/NoodleSushi/NoodleSushi/assets/34954180/a5d864f4-6657-4e78-90a1-a7570bb723ec" alt="Deno" title="Deno" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></code>
-	<code><img height="50" src="https://github.com/NoodleSushi/NoodleSushi/assets/34954180/8cf547ac-f23a-4fb2-b8fa-dda94c179220" alt="Svelte" title="Svelte"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code
