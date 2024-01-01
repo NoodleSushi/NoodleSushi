@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Stuff I've Been Learning
 <div align="center">
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mysql" />
+	    <img src="https://skillicons.dev/icons?i=rust,html,css,js,ts,nodejs,react,express,mysql" />
 	</a>
 </div>
 
@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 ## Stuff I've Touched
 <div align="center">
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=go,java,c,php" />
+	    <img src="https://skillicons.dev/icons?i=go,java,c,php,lua" />
 	</a>
 </div>
 
 ## Stuff I've Got My Eyes On
 <div align="center">
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=deno,rust,vue,sass,haxe" />
+	    <img src="https://skillicons.dev/icons?i=deno,vue,sass,haxe" />
 	</a>
 </div>
 <br>
