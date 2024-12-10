@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 ## Stuff I Use
 <div align="center">
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=cs,py,godot,svelte,vscode,git,github" />
+	    <img src="https://skillicons.dev/icons?i=cs,py,godot,html,css,js,ts,nodejs,react,vscode,git,github,mysql" />
 	</a>
 </div>
 
 ## Stuff I've Been Learning
 <div align="center">
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=rust,html,css,js,ts,nodejs,laravel,php,react,express,mysql" />
+	    <img src="https://skillicons.dev/icons?i=rust,laravel,php,express" />
 	</a>
 </div>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Stuff I've Touched
 <div align="center">
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=go,java,c,lua" />
+	    <img src="https://skillicons.dev/icons?i=go,java,c,lua,svelte" />
 	</a>
 </div>
 
