@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Stuff I Use
 <div align="center">
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=cs,py,godot,html,css,js,ts,nodejs,react,vscode,git,github,mysql" />
+	    <img src="https://skillicons.dev/icons?i=cs,py,godot,html,css,tailwind,js,ts,nodejs,react,vscode,git,github,mysql" />
 	</a>
 </div>
 
