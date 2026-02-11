@@ -1,5 +1,5 @@
 # Heya!~ 👋
-I'm Noodle. I'm a bedroom producer, game developer and programmer. I'm currently taking BS Computer Science.
+I'm Noodle. I'm a bedroom producer, game developer and programmer, with a Bachelor of Science in Computer Science.
 <!--
 **NoodleSushi/NoodleSushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
