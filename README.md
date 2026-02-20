@@ -18,30 +18,30 @@ Here are some ideas to get you started:
 
 ## Stuff I Use
 <div align="center">
-	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=cs,py,godot,figma,html,css,tailwind,js,ts,nodejs,nextjs,react,astro,alpinejs,mysql" />
+	<a href="https://go-skill-icons.vercel.app/">
+	    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,py,godot,figma,html,css,tailwind,js,ts,nodejs,nextjs,zustand,react,astro,alpinejs,gsap,mysql,sanity" />
 	</a>
 </div>
 
 ## Stuff I've Been Learning
 <div align="center">
-	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=rust,laravel,php,express" />
+	<a href="https://go-skill-icons.vercel.app/">
+	    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,laravel,php,express" />
 	</a>
 </div>
 
 
 ## Stuff I've Touched
 <div align="center">
-	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=go,java,c,lua,svelte" />
+	<a href="https://go-skill-icons.vercel.app/">
+	    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,java,c,lua,svelte" />
 	</a>
 </div>
 
 ## Stuff I've Got My Eyes On
 <div align="center">
-	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=deno,vue,sass,haxe" />
+	<a href="https://go-skill-icons.vercel.app/">
+	    <img src="https://go-skill-icons.vercel.app/api/icons?i=deno,vue,sass,haxe" />
 	</a>
 </div>
 <br>
