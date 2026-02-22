@@ -1,51 +1,30 @@
 # Heya!~ 👋
-I'm Noodle. I'm a bedroom producer, game developer and programmer, with a Bachelor of Science in Computer Science.
-<!--
-**NoodleSushi/NoodleSushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Noodle**! a computer science graduate, programmer, game developer, and freelance music producer & composer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started in game development, which shaped how I think about software today: interactive, responsive, and meant to be experienced rather than just used. I now work mostly on web projects, focusing on frontend implementation while gradually expanding my understanding of backend systems when projects call for it.
 
+I often collaborate with artists for visual direction, but I pay close attention to UI/UX details during implementation such as spacing, accessibility, contrast, typography, and the small decisions that make interfaces feel intentional.
 
-## Stuff I Use
-<div align="center">
-	<a href="https://go-skill-icons.vercel.app/">
-	    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,py,godot,figma,html,css,tailwind,js,ts,nodejs,nextjs,zustand,react,astro,alpinejs,gsap,mysql,sanity" />
-	</a>
-</div>
+Alongside programming, I also make music and enjoy multimedia projects that sit at the intersection of technology and creativity. I also have a soft spot for data modeling and ERD design when working with structured systems.
 
-## Stuff I've Been Learning
-<div align="center">
-	<a href="https://go-skill-icons.vercel.app/">
-	    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,laravel,php,express" />
-	</a>
-</div>
+> I like turning ideas into things people can actually poke, click, and experience.
 
+## Currently building
 
-## Stuff I've Touched
-<div align="center">
-	<a href="https://go-skill-icons.vercel.app/">
-	    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,java,c,lua,svelte" />
-	</a>
-</div>
+* Volunteering as a website developer for **Barkada FurFest 2026**
 
-## Stuff I've Got My Eyes On
-<div align="center">
-	<a href="https://go-skill-icons.vercel.app/">
-	    <img src="https://go-skill-icons.vercel.app/api/icons?i=deno,vue,sass,haxe" />
-	</a>
-</div>
+## Languages and Tools
+
+![Core web / frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,alpinejs,zustand,gsap)
+
+![Backend / data](https://go-skill-icons.vercel.app/api/icons?i=nodejs,mysql,sanity,express,laravel)
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,py,go,java,c,lua,php)
+
+![Creative](https://go-skill-icons.vercel.app/api/icons?i=godot,figma,affinity)
+
 <br>
 <br>
 
-
-![NoodleSushi's Stats](https://github-readme-stats.vercel.app/api?username=NoodleSushi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![NoodleSushi's Stats](https://github-readme-stats.vercel.app/api?username=NoodleSushi\&theme=dracula\&show_icons=true\&hide_border=true\&count_private=true)
