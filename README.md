@@ -1,6 +1,6 @@
 # Heya!~ 👋
 
-I'm **Noodle**! a computer science graduate, programmer, game developer, and freelance music producer & composer.
+I'm **Noodle**! a computer science graduate, programmer, game developer, web developer, and freelance music producer & composer.
 
 I started in game development, which shaped how I think about software today: interactive, responsive, and meant to be experienced rather than just used. I now work mostly on web projects, focusing on frontend implementation while gradually expanding my understanding of backend systems when projects call for it.
 
