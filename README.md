@@ -16,7 +16,7 @@ Alongside programming, I also make music and enjoy multimedia projects that sit 
 
 ## Languages and Tools
 
-![Core web / frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,alpinejs,zustand,gsap)
+![Core web / frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,laravel,alpinejs,zustand,gsap)
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,py,go,java,c,lua,regex,php)
 
