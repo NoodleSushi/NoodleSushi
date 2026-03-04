@@ -16,15 +16,13 @@ Alongside programming, I also make music and enjoy multimedia projects that sit 
 
 ## Languages and Tools
 
-![Core web / frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,alpinejs,zustand,gsap)
+![row1](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,alpinejs)
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs,py,go,java,c,lua,regex,php)
+![row2](https://go-skill-icons.vercel.app/api/icons?i=cs,py,go,java,c,lua,regex,php,zustand)
 
-![Backend / data](https://go-skill-icons.vercel.app/api/icons?i=nodejs,mysql,sanity,express,laravel)
-
-![Creative](https://go-skill-icons.vercel.app/api/icons?i=godot,figma,affinity)
+![row3](https://go-skill-icons.vercel.app/api/icons?i=nodejs,mysql,sanity,express,laravel,godot,figma,affinity,gsap)
 
 <br>
 <br>
 
-![NoodleSushi's Stats](https://github-readme-stats.vercel.app/api?username=NoodleSushi\&theme=dracula\&show_icons=true\&hide_border=true\&count_private=true)
+![NoodleSushi's Stats](https://github-stats-extended.vercel.app/api?username=NoodleSushi\&theme=dracula\&show_icons=true\&hide_border=true\&count_private=true)
