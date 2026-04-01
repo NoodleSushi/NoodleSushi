@@ -13,6 +13,7 @@ Alongside programming, I also make music and enjoy multimedia projects that sit 
 ## Currently building
 
 * Volunteering as a website developer for **Barkada FurFest 2026**
+  Volunteering as a website developer for **Southpaw Furry Weekend 2026**
 
 ## Languages and Tools
 
