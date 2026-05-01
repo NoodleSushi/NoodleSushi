@@ -1,3 +1,6 @@
+<img width="1500" height="354" alt="Document" src="https://github.com/user-attachments/assets/11a09573-664a-401e-ab69-548d6b86e2d9" />
+
+
 # Heya!~ 👋
 
 I'm **Noodle**! a computer science graduate, programmer, game developer, web developer, and freelance music producer & composer.
