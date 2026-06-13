@@ -15,8 +15,10 @@ Alongside programming, I also make music and enjoy multimedia projects that sit 
 
 ## Currently building
 
-* Volunteering as a website developer for **Barkada FurFest 2026**
-* Volunteering as a website developer for **Southpaw Furry Weekend 2026**
+* **Web Developer** (Volunteer) – Barkada FurFest 2026
+* **Web Developer** (Volunteer) – Southpaw Furry Weekend 2026
+* **Composer** – Official Music Theme for Outbreak Cebu 2026
+* **Film Composer** – Scoring for two animated thesis films
 
 ## Languages and Tools
 
