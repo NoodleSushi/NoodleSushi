@@ -22,7 +22,7 @@ Alongside programming, I also make music and enjoy multimedia projects that sit 
 
 ## Languages and Tools
 
-![row1](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,alpinejs)
+![row1](https://go-skill-icons.vercel.app/api/icons?i=html,css,ts,tailwind,react,nextjs,svelte,astro,alpinejs)
 
 ![row2](https://go-skill-icons.vercel.app/api/icons?i=cs,py,go,java,c,lua,regex,php,zustand)
 
